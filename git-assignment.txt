@@ -1,0 +1,20 @@
+git config -l
+
+`
+user.name=Chemben
+user.email=docbenjamen@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:chemben17/altschool-cloud-exercises.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+
+
+git remote -v
+
+
+origin	git@github.com:chemben17/altschool-cloud-exercises.git (fetch)
+origin	git@github.com:chemben17/altschool-cloud-exercises.git (push)
