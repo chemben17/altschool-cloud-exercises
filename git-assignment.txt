@@ -18,3 +18,12 @@ git remote -v
 
 origin	git@github.com:chemben17/altschool-cloud-exercises.git (fetch)
 origin	git@github.com:chemben17/altschool-cloud-exercises.git (push)
+
+
+git log
+
+commit 0f0290a5ef503edcc1b0dc29b8dc981854732506
+Author: Chemben <docbenjamen@gmail.com>
+Date:   Mon Apr 21 14:04:57 2025 +0100
+
+    the git assignment has been updated. Three new commands are added
